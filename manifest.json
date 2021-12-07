@@ -10,62 +10,62 @@
     "lang": "es-MX",
     "icons": [
         {
-            "src": "../assets/img/icons/apple-touch-icon-76x76.png",
+            "src": "./img/apple-touch-icon-76x76.png",
             "sizes": "76x76",
             "type": "image/png"
         },
         {
-            "src": "../assets/img/icons/apple-touch-icon-72x72.png",
+            "src": "./img/apple-touch-icon-72x72.png",
             "sizes": "72x72",
             "type": "image/png"
         },
         {
-            "src": "../assets/img/icons/apple-touch-icon-60x60.png",
+            "src": "./img/apple-touch-icon-60x60.png",
             "sizes": "60x60",
             "type": "image/png"
         },
         {
-            "src": "../assets/img/icons/apple-touch-icon-57x57.png",
+            "src": "./img/apple-touch-icon-57x57.png",
             "sizes": "57x57",
             "type": "image/png"
         },
         {
-            "src": "../assets/img/icons/favicon-96x96.png",
+            "src": "./img/favicon-96x96.png",
             "sizes": "96x96",
             "type": "image/png"
         },
         {
-            "src": "../assets/img/icons/favicon-32x32.png",
+            "src": "./img/favicon-32x32.png",
             "sizes": "32x32",
             "type": "image/png"
         },
         {
-            "src": "../assets/img/icons/favicon-16x16.png",
+            "src": "./img/favicon-16x16.png",
             "sizes": "16x16",
             "type": "image/png"
         },
         {
-            "src": "../assets/img/icons/facebookIcon.png",
+            "src": "./img/facebookIcon.png",
             "sizes": "512x512",
             "type": "image/png"
         },
         {
-            "src": "../assets/img/icons/instagramIcon.png",
+            "src": "./img/instagramIcon.png",
             "sizes": "512x512",
             "type": "image/png"
         },
         {
-            "src": "../assets/img/icons/twitterIcon.png",
+            "src": "./img/twitterIcon.png",
             "sizes": "512x512",
             "type": "image/png"
         },
         {
-            "src": "../assets/img/icons/logoutIcon.png",
+            "src": "./img/logoutIcon.png",
             "sizes": "4096x4096",
             "type": "image/png"
         },
         {
-            "src": "../assets/img/icons/userIcon.png",
+            "src": "./img/userIcon.png",
             "sizes": "48x48",
             "type": "image/png"
         }
